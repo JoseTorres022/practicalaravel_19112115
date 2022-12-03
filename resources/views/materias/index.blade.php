@@ -1,4 +1,4 @@
-@extends('layouts.plnatilla')
+@extends('layouts.plantilla')
 @section('titulo','Lista materias')
     @section('contenido')
 <h1>Listado de Materias</h1>
